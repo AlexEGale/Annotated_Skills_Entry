@@ -1,0 +1,10 @@
+/.vscode
+/bin
+/build
+compile_commands.json
+
+**/build/**
+
+/oldMain/bin
+ALEX/COMP_V7.3/build/
+ALEX/COMP_V7.4/build/
